@@ -76,4 +76,7 @@ Hodge / Weil, P / PN, Navier–Stokes, BSD, and the original Replicator collecti
 - **Researcher:** Philippe Beauchamp
 - **ORCID:** [0009-0003-7407-394X](https://orcid.org/0009-0003-7407-394X)
 - **GitHub:** [jackophil-dev](https://github.com/jackophil-dev)
+- **Email:** [philippe_beauchamp@hotmail.com](mailto:philippe_beauchamp@hotmail.com)
+- **Facebook:** [facebook.com/jackoanon](https://www.facebook.com/jackoanon)
+- **Collaboration and paid-work inquiries:** email me with a short description of the task, expected result, timeline, and budget. Scope and terms are agreed before work begins.
 
